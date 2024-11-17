@@ -4,6 +4,8 @@ public class SmatTv {
     int volume = 25;
     int canal = 1;
 
+    
+
     public void ligar(){
         ligado = true;
     
@@ -36,6 +38,8 @@ public class SmatTv {
 
     }
 
+
+    
 
 
     
