@@ -16,7 +16,7 @@ public class ContaTerminal {
         String nomeCliente = " ";
         int numeroAgencia;
         double saldo = 389.00;
-        double deposito = 0;
+        double deposito ;
     
         
 
