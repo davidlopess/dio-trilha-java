@@ -15,6 +15,14 @@ public class TiposVariaveis {
          * Double  | 8 byte        |-1,7976E + 308             |1,7976E + 308            |
          */
         
+         int num = 5;
+         num = 10;
+         System.out.println(num);
+
+        final double VALOR_DE_PI = 3.43;
+        
+         System.out.println(VALOR_DE_PI);
+
     }
     
 }
