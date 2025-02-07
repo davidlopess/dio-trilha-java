@@ -62,7 +62,7 @@ public class Operadores {
        // && -> E =  so vai ser verdadeiro se as duas condições forem igaus , 
        // || -> OU = só precisa que uma das condições seja verdadeira .
 
-       if ( condicao1 && condicao2){
+       if ( condicao1 || condicao2){
          System.out.println("Opa! Essas condições são verdadeiras");
 
        }else{
