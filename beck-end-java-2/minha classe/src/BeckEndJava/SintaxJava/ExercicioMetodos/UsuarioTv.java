@@ -33,7 +33,7 @@ public class UsuarioTv {
    novaTv.Dcanal();
    novaTv.Dcanal();
 
-   novaTv.mCanal(13);
+   novaTv.mCanal(17);
    System.out.println("canal atual da Tv? " + novaTv.canalTv);
 
    
