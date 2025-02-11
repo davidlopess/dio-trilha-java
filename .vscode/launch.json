@@ -1,0 +1,79 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Orientaca",
+            "request": "launch",
+            "mainClass": "BeckEndJava.Objectos.Orientaca",
+            "projectName": "dio-trilha-java_d6b2ff9"
+        },
+        {
+            "type": "java",
+            "name": "Argumentos",
+            "request": "launch",
+            "mainClass": "BeckEndJava.SintaxJava.Argumentos",
+            "projectName": "dio-trilha-java_d6b2ff9"
+        },
+        {
+            "type": "java",
+            "name": "UsuarioTv",
+            "request": "launch",
+            "mainClass": "BeckEndJava.SintaxJava.ExercicioMetodos.UsuarioTv",
+            "projectName": "dio-trilha-java_d6b2ff9"
+        },
+        {
+            "type": "java",
+            "name": "Indentacao",
+            "request": "launch",
+            "mainClass": "BeckEndJava.SintaxJava.Indentacao",
+            "projectName": "dio-trilha-java_d6b2ff9"
+        },
+        {
+            "type": "java",
+            "name": "Metodos",
+            "request": "launch",
+            "mainClass": "BeckEndJava.SintaxJava.Metodos",
+            "projectName": "dio-trilha-java_d6b2ff9"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "BeckEndJava.SintaxJava.MinhaClasse",
+            "projectName": "dio-trilha-java_d6b2ff9"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "BeckEndJava.SintaxJava.Operadores",
+            "projectName": "dio-trilha-java_d6b2ff9"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "BeckEndJava.SintaxJava.TiposVariaveis",
+            "projectName": "dio-trilha-java_d6b2ff9"
+        },
+        {
+            "type": "java",
+            "name": "NovaClasse",
+            "request": "launch",
+            "mainClass": "NovaClasse",
+            "projectName": "dio-trilha-java_d6b2ff9"
+           
+        }
+    ]
+}
