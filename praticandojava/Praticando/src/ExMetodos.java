@@ -4,9 +4,9 @@ public class ExMetodos{
         msg("java", 5);
         
         // imprimindo o retorno 
-         int r;
-         r = soma2(2,2);
-         System.out.println(r);
+     
+        soma2(5,2);
+         
 
         //retorno da lista de parametros
          System.out.println(soma(1,23,2,32,44,43,33,22,423,2342));
@@ -34,9 +34,9 @@ public class ExMetodos{
        
        
         int res = n1 + n2;
-       
+        System.out.println(res);
         return res ;
-        
+       
     }
 
     // metodo com lista de parametros
