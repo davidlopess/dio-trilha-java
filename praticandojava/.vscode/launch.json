@@ -1,0 +1,67 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "praticandojava_773446ff"
+        },
+        {
+            "type": "java",
+            "name": "Carro",
+            "request": "launch",
+            "mainClass": "Carro",
+            "projectName": "praticandojava_773446ff"
+        },
+        {
+            "type": "java",
+            "name": "ContaBancaria",
+            "request": "launch",
+            "mainClass": "ContaBancaria",
+            "projectName": "praticandojava_773446ff"
+        },
+        {
+            "type": "java",
+            "name": "Ex002",
+            "request": "launch",
+            "mainClass": "Ex002",
+            "projectName": "praticandojava_773446ff"
+        },
+        {
+            "type": "java",
+            "name": "Ex003",
+            "request": "launch",
+            "mainClass": "Ex003",
+            "projectName": "praticandojava_773446ff"
+        },
+        {
+            "type": "java",
+            "name": "ExMetodos",
+            "request": "launch",
+            "mainClass": "ExMetodos",
+            "projectName": "praticandojava_773446ff"
+        },
+        {
+            "type": "java",
+            "name": "Personagem",
+            "request": "launch",
+            "mainClass": "Personagem",
+            "projectName": "praticandojava_773446ff"
+        },
+        {
+            "args": "david"
+
+        }
+    ]
+}

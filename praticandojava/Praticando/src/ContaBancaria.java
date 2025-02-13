@@ -4,11 +4,12 @@ public class ContaBancaria {
     public static void main(String[] args){
     Scanner scanner = new Scanner(System.in);
 
-   
+    String sonho = args[0];
     String nomeCliente= " ";
     String agencia;
     int numeroConta;
     double saldo = 2550;
+    System.out.println(saldo +  sonho);
 
    
 
