@@ -3,12 +3,14 @@ import java.util.Scanner;
 public class ContaBancaria {
     public static void main(String[] args){
     Scanner scanner = new Scanner(System.in);
-    
-    String nomeCliente;
+
+   
+    String nomeCliente= " ";
     String agencia;
     int numeroConta;
     double saldo = 2550;
 
+   
 
     System.out.println("Por favor digite seu nome:");
     nomeCliente = scanner.nextLine();

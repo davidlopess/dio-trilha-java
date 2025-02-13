@@ -1,8 +1,9 @@
 public class Funcao {
 
     int velocidade;
-    int km;
+    int km = 22;
     boolean ligar = false;
+    
     
 
     public void ligarCarro(){
