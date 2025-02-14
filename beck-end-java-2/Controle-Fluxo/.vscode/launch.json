@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Teste",
+            "request": "launch",
+            "mainClass": "Teste",
+            "projectName": "Controle-Fluxo_98b6e60b"
+        },
+        {
+            "type": "java",
             "name": "EstruturaRepeticao",
             "request": "launch",
             "mainClass": "EStruturaRepeticao.EstruturaRepeticao",
