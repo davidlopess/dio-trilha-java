@@ -4,7 +4,13 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-    
+        {
+            "type": "java",
+            "name": "EstruturaRepeticao",
+            "request": "launch",
+            "mainClass": "EStruturaRepeticao.EstruturaRepeticao",
+            "projectName": "Controle-Fluxo_98b6e60b"
+        },
         {
             "type": "java",
             "name": "Current File",
