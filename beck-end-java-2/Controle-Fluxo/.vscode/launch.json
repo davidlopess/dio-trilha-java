@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "doWhile",
+            "request": "launch",
+            "mainClass": "EStruturaRepeticao.doWhile",
+            "projectName": "Controle-Fluxo_98b6e60b"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "EStruturaRepeticao.While",
+            "projectName": "Controle-Fluxo_98b6e60b"
+        },
+        {
+            "type": "java",
             "name": "Teste",
             "request": "launch",
             "mainClass": "Teste",
