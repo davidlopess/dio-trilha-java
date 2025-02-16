@@ -50,9 +50,9 @@ public class EstruturaRepeticao {
          // continue = não para o fluxo,apenas muda o fluxo no momento em que o "continue" foi aplicado, e continua o fluxo
          
          for(int n = 1; n <= 5; n++){
-            if(n == 6){
+            if(n == 3){
 
-                continue;      
+                break ;      
                
             
             }

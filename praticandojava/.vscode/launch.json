@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WhileDoWhile",
+            "request": "launch",
+            "mainClass": "WhileDoWhile",
+            "projectName": "praticandojava_773446ff"
+        },
+        {
+            "type": "java",
+            "name": "Teste",
+            "request": "launch",
+            "mainClass": "Teste",
+            "projectName": "praticandojava_773446ff"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -61,7 +75,6 @@
         },
         {
             "args": "david"
-
         }
     ]
 }

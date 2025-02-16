@@ -23,6 +23,7 @@ public class WhileDoWhile {
                 System.out.println("lopes");
                 n2++;
              } while (n2 < 5);
+              System.out.println("Ok");
 
              
     
