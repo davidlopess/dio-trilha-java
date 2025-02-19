@@ -37,12 +37,10 @@ public class ExControleFluxo{
     static void contar(int num1, int num2)throws ParametrosInvalidosException{
         if (num1 > num2){            
             throw new ParametrosInvalidosException();
-        }
-        System.out.println("Os valares das interações imprimidas são: ");
-
-        
-           
-
+            
+        }else{
+            System.out.println("Os valares das interações imprimidas são: ");
+        }                  
         int contagem = num2 - num1;
         for(int i = 1; i < contagem; i++ ){
             num1 = num1 +1;
